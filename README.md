@@ -5,7 +5,7 @@
 
 ### Tech Stacks💻
   
-![Adobe Photoshop Icon](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe_Photoshop&logoColor=white) <br>
+![Adobe Photoshop Icon](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Photoshop&logoColor=white) <br>
 ![HTML5 Icon](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3 Icon](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![JavaScript Icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)<br>
 ![jQuery Icon](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white) ![JSON Icon](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=JSON&logoColor=white) ![React.js Icon](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black) <br>
 ![React native Icon](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=black) <br>
