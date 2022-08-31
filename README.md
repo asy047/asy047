@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi There!👋
-- This is An Seo-young(a.k.a. notstanding)'s github.
+This is An Seo-young(a.k.a. notstanding)'s github.
 
 ### Tech Stacks💻
   
