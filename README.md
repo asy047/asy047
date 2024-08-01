@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
 <div align="center">
 
-![Adobe Photoshop Icon](https://github.com/asy047/asy047/assets/67266378/9e02424d-febc-4cfb-8d48-975250e23070)
-
 # Hi There!👋
 This is An Seo-young(a.k.a. notstanding)'s github.
+Workin in SKT Subsidiary company
 
 ### Tech Stacks💻
   
