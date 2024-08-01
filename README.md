@@ -3,7 +3,7 @@
 
 # Hi There!👋
 This is An Seo-young(a.k.a. notstanding)'s github.
-Workin in SKT Subsidiary company
+Working in SKT Subsidiary company
 
 ### Tech Stacks💻
   
